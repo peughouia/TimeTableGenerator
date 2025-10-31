@@ -86,7 +86,7 @@ L'utilisation est simple et intuitive :
       * Un fichier `.ics` sera téléchargé. Vous pouvez l'importer dans l'application de calendrier de votre choix.
         
 ## Aperçu de l'Application
-![Capture d'écran de l'interface principale](assets/page1.png)
+![Capture d'écran de l'interface principale](src/assets/page1.png)
 
-![Capture d'ecran du didactielle ou tuto](assets/page2.png)
+![Capture d'ecran du didactielle ou tuto](src/assets/page2.png)
 
