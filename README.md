@@ -84,4 +84,9 @@ L'utilisation est simple et intuitive :
 
       * Une fois tous vos événements ajoutés, cliquez sur le bouton vert **"Générer le fichier ICS"** en bas de page.
       * Un fichier `.ics` sera téléchargé. Vous pouvez l'importer dans l'application de calendrier de votre choix.
+        
+## Aperçu de l'Application
+![Capture d'écran de l'interface principale](assets/page1.png)
+
+![Capture d'ecran du didactielle ou tuto](assets/page2.png)
 
